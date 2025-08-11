@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "207653257384",
+    "firebase_url": "https://kiit-kiit-default-rtdb.firebaseio.com",
+    "project_id": "kiit-kiit",
+    "storage_bucket": "kiit-kiit.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207653257384:android:be97368575c6454bdac29d",
+        "android_client_info": {
+          "package_name": "com.example.azyq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvhMFz6O3pdNlGMU-Vttuoe69U8w_wou0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207653257384:android:d9e792675732789ddac29d",
+        "android_client_info": {
+          "package_name": "com.example.kit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvhMFz6O3pdNlGMU-Vttuoe69U8w_wou0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
